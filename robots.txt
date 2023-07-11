@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://LLX618.github.io/sitemap.xml

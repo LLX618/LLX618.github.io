@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | 主页</title>
+    <link>http://LLX618.github.io/publication-type/2/</link>
+      <atom:link href="http://LLX618.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://LLX618.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://LLX618.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>STAR-RIS Enabled Downlink Secure NOMA Network Under Imperfect CSI of Eavesdroppers</title>
+      <link>http://LLX618.github.io/publication/journal-article1/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://LLX618.github.io/publication/journal-article1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

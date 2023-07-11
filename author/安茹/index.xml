@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>安茹 | 主页</title>
+    <link>http://LLX618.github.io/author/%E5%AE%89%E8%8C%B9/</link>
+      <atom:link href="http://LLX618.github.io/author/%E5%AE%89%E8%8C%B9/index.xml" rel="self" type="application/rss+xml" />
+    <description>安茹</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://LLX618.github.io/author/%E5%AE%89%E8%8C%B9/avatar_hue5bfa3bac30804edbd6a8b44eaa88270_362555_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>安茹</title>
+      <link>http://LLX618.github.io/author/%E5%AE%89%E8%8C%B9/</link>
+    </image>
+    
+  </channel>
+</rss>
